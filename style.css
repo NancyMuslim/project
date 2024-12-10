@@ -1,0 +1,42 @@
+*{
+    font-family: 'janna lt';
+    border: 1;
+    box-sizing: border-box;
+}
+.logo{
+    text-align: center;
+    margin: 40px 0;
+}
+.logo h2{
+    font-size: 30px;
+    font-weight: 500px;
+    color: rgb(18, 85, 87);
+}
+.book{
+    text-align: center;
+}
+.book p{
+    font-size: 24px;
+}
+.book input{
+    width: 50%;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.book input[type="submit"]{
+    font-size: 16px;
+    background: rgb(18, 85, 87);
+    color: aliceblue;
+    border: none;
+}
+table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+th{
+    background: rgb(18, 85, 87);
+    color: aliceblue;
+    padding: 5px 0;
+}
